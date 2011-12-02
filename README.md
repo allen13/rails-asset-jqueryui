@@ -6,9 +6,10 @@ Gemified/Assetized version of the jqueryui library complete with themes!
 
 ###Gem File Include
 
-    gem "rails-asset-jqueryui", :git => "git://github.com/allen13/rails-asset-jqueryui.git"
+    gem "rails-asset-jqueryui"
 
 ###Javascript File Include
+Current Version:jquery-ui-1.8.16
 
     //= require jqueryui
 

@@ -8,8 +8,6 @@ gemspec
 require 'rbconfig'
 HOST_OS = RbConfig::CONFIG['host_os']
 
-source 'http://rubygems.org'
-
 gem 'rails', '3.1.3'
 
 # Bundle edge Rails instead:
