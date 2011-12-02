@@ -1,14 +1,14 @@
 # rails-asset-jqueryui
 
 Gemified/Assetized version of the [jQuery UI](http://jqueryui.com/ "jQuery UI") library complete with themes!
-## Rails 3.1
+####Current Version:jquery-ui-1.8.16
+## Rails 3.1 Asset
 
 ###Gem File Include
 
     gem "rails-asset-jqueryui"
 
 ###Javascript File Include
-Current Version:jquery-ui-1.8.16
 
     //= require jqueryui
 
