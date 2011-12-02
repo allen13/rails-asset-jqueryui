@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["allen13"]
   s.email       = ["kex.allen13@gmail.com"]
   s.homepage    = "https://github.com/allen13/rails-asset-jqueryui"
-  s.summary     = "A gemified version of the jquery-ui javascript library."
-  s.description = "A gemified version of the jquery-ui javascript library."
+  s.summary     = "A gemified/assetized version of the jquery-ui javascript library."
+  s.description = "A gemified/assetized version of the jquery-ui javascript library."
 
   s.rubyforge_project = "rails-asset-jqueryui"
 

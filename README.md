@@ -1,7 +1,6 @@
-# rails-asset-jqgrid
+# rails-asset-jqueryui
 
-Gemified/Assetized version of the jqueryui library complete with themes!
-
+Gemified/Assetized version of the [jQuery UI](http://jqueryui.com/ "jQuery UI") library complete with themes!
 ## Rails 3.1
 
 ###Gem File Include
